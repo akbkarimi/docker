@@ -1,0 +1,8 @@
+[Info  - 9:40:32 AM] Initialising intelephense 1.7.1
+[Info  - 9:40:32 AM] Initialised in 8 ms
+[Info  - 9:40:32 AM] Environment changed. Refreshing 1 in memory documents.
+[Warn  - 9:40:33 AM] file:///home/akbar/Desktop/Docker-Pro/src/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 9:40:33 AM] Indexing started.
+[Info  - 9:40:47 AM] Indexing ended. 6282 files indexed in 14s.
+[Info  - 9:40:47 AM] Writing state to /home/akbar/Desktop/Docker-Pro/~/.vscode-root/User/workspaceStorage/9ad7bd0b7dd906ee1a5c2f1704130fd3/bmewburn.vscode-intelephense-client/16aff685.
+[Info  - 9:40:48 AM] Wrote state in 1.2s.

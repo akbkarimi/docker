@@ -1,0 +1,55 @@
+[2021-06-02 09:28:58.439] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-06-02 09:29:05.185] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.13.0
+[2021-06-02 09:29:05.515] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.d738cb40-3543-4eb5-9d79-472097607908: ms-azuretools.vscode-docker
+[2021-06-02 09:29:05.530] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-azuretools.vscode-docker-1.13.0
+[2021-06-02 09:29:05.538] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2021-06-02 09:29:05.723] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2021-06-02 09:29:08.209] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-02 09:38:16.647] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2021-06-02 09:38:20.622] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-intellisense-2.3.14
+[2021-06-02 09:38:23.073] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.f31e3200-a978-4158-816e-fc976fd9795e: felixfbecker.php-intellisense
+[2021-06-02 09:38:23.080] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14
+[2021-06-02 09:38:23.082] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2021-06-02 09:38:23.088] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
+[2021-06-02 09:38:38.015] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2021-06-02 09:38:41.601] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/bmewburn.vscode-intelephense-client-1.7.1
+[2021-06-02 09:38:42.544] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.52320e77-2f57-48e9-afd7-6053b30c055b: bmewburn.vscode-intelephense-client
+[2021-06-02 09:38:42.551] [sharedprocess] [info] Renamed to /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1
+[2021-06-02 09:38:42.563] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2021-06-02 09:38:42.581] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client
+[2021-06-02 09:43:25.793] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2021-06-02 09:43:28.570] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-debug-1.15.1
+[2021-06-02 09:43:30.685] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.be80a6ab-36de-4016-8ae1-60b18945d5c5: felixfbecker.php-debug
+[2021-06-02 09:43:30.698] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-debug-1.15.1
+[2021-06-02 09:43:30.705] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2021-06-02 09:43:30.717] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2021-06-02 09:43:33.993] [sharedprocess] [info] Installing extension: neilbrayfield.php-docblocker
+[2021-06-02 09:43:37.111] [sharedprocess] [info] Downloaded extension: neilbrayfield.php-docblocker /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/neilbrayfield.php-docblocker-2.1.0
+[2021-06-02 09:43:38.398] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.78b53706-430f-4886-bd6d-ec47e0718dca: neilbrayfield.php-docblocker
+[2021-06-02 09:43:38.404] [sharedprocess] [info] Renamed to /root/.vscode/extensions/neilbrayfield.php-docblocker-2.1.0
+[2021-06-02 09:43:38.406] [sharedprocess] [info] Installation completed. neilbrayfield.php-docblocker
+[2021-06-02 09:43:38.415] [sharedprocess] [info] Extensions installed successfully: neilbrayfield.php-docblocker
+[2021-06-02 09:43:40.062] [sharedprocess] [info] Installing extension: kokororin.vscode-phpfmt
+[2021-06-02 09:43:41.543] [sharedprocess] [info] Downloaded extension: kokororin.vscode-phpfmt /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/kokororin.vscode-phpfmt-1.0.30
+[2021-06-02 09:43:41.609] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.b3ac02f3-c5e3-4de4-bd1b-84fd61ddefd6: kokororin.vscode-phpfmt
+[2021-06-02 09:43:41.615] [sharedprocess] [info] Renamed to /root/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30
+[2021-06-02 09:43:41.616] [sharedprocess] [info] Installation completed. kokororin.vscode-phpfmt
+[2021-06-02 09:43:41.620] [sharedprocess] [info] Extensions installed successfully: kokororin.vscode-phpfmt
+[2021-06-02 09:46:09.785] [sharedprocess] [info] Installing extension: flydreame.docblocker
+[2021-06-02 09:46:11.194] [sharedprocess] [info] Downloaded extension: flydreame.docblocker /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/flydreame.docblocker-0.5.0
+[2021-06-02 09:46:11.308] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.f5ac52cb-ff0c-4b47-8b4e-5165bd9fb933: flydreame.docblocker
+[2021-06-02 09:46:11.313] [sharedprocess] [info] Renamed to /root/.vscode/extensions/flydreame.docblocker-0.5.0
+[2021-06-02 09:46:11.315] [sharedprocess] [info] Installation completed. flydreame.docblocker
+[2021-06-02 09:46:11.323] [sharedprocess] [info] Extensions installed successfully: flydreame.docblocker
+[2021-06-02 09:47:44.946] [sharedprocess] [info] Installing extension: mykhailokushnir.vscode-php-getter-setter
+[2021-06-02 09:47:45.715] [sharedprocess] [info] Downloaded extension: mykhailokushnir.vscode-php-getter-setter /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/mykhailokushnir.vscode-php-getter-setter-1.1.0
+[2021-06-02 09:47:45.735] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.5b374eb5-c07d-4ca1-8172-bbfb1df0c827: mykhailokushnir.vscode-php-getter-setter
+[2021-06-02 09:47:45.740] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mykhailokushnir.vscode-php-getter-setter-1.1.0
+[2021-06-02 09:47:45.742] [sharedprocess] [info] Installation completed. mykhailokushnir.vscode-php-getter-setter
+[2021-06-02 09:47:45.749] [sharedprocess] [info] Extensions installed successfully: mykhailokushnir.vscode-php-getter-setter
+[2021-06-02 09:48:46.506] [sharedprocess] [info] Installing extension: marabesi.php-import-checker
+[2021-06-02 09:48:58.947] [sharedprocess] [info] Downloaded extension: marabesi.php-import-checker /home/akbar/Desktop/Docker-Pro/~/.vscode-root/CachedExtensionVSIXs/marabesi.php-import-checker-0.5.0
+[2021-06-02 09:48:59.363] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.e6bffd76-b529-4c03-b5af-11b4d0e57d1b: marabesi.php-import-checker
+[2021-06-02 09:48:59.370] [sharedprocess] [info] Renamed to /root/.vscode/extensions/marabesi.php-import-checker-0.5.0
+[2021-06-02 09:48:59.376] [sharedprocess] [info] Installation completed. marabesi.php-import-checker
+[2021-06-02 09:48:59.379] [sharedprocess] [info] Extensions installed successfully: marabesi.php-import-checker

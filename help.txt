@@ -1,0 +1,62 @@
+
+#برای نصب از روی .yml
+docker-compose up -d --build
+
+#برای حذف و توقف کانتینرهای اجرا شده
+docker-compose down
+
+# برای نصب لاراول
+docker-compose run --rm composer create-project laravel/laravel .
+
+# برای رفع مشکل پرمیشن
+docker-compose exec php chown -R www-data:www-data /var/www
+docker-compose exec php chmod -R 755 /var/www/html/storage
+
+# برای ایجاد دیتابیس
+docker-compose run --rm artisan migrate
+
+# درصورت خطا دادن بهتر است اول دستور زیر را اجرا کرد
+docker-compose run --rm artisan optimize
+
+# برای ساختن مدل دانشجو
+docker-compose run --rm artisan make:model Student -cm --api --resource
+
+# برای ایجاد روت
+routes/api.php file: 
+    use App\Http\Controllers\StudentController;
+    Route::resource('/student',StudentController::class);
+
+# برای ایجاد فیلدهای دانشجو
+database/migration:creeate_students
+    public function up()
+        {
+            Schema::create('students', function (Blueprint $table) {
+                $table->id();
+                $table->string('name');
+                $table->string('family');
+                $table->float('average');
+                $table->timestamps();
+            });
+
+
+# برای امکان نمایش و ایجاد دانشجو
+app/Http/Controllers/StudentController.php :
+    public function index()
+    {
+       return Student::all(); 
+    }
+    public function store(Request $request)
+    {
+        $s = new Student();
+        $s->name = $request->name;
+        $s->family = $request->family;
+        $s->average = $request->average;
+        $s->save();
+        return $s->id;
+    }
+
+# برای بروزرسانی دوباره دیتابیس 
+docker-compose run --rm artisan migrate
+
+#برای اجرای ویژوال استدیو کد در حالت root
+sudo code ~/.zshrc --user-data-dir="/root/.vscode"
